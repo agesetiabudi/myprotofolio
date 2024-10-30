@@ -342,6 +342,7 @@ b, strong {
   height: 75px;
   line-height: 75px;
   text-align: center;
+  background-size: cover;
 }
 .timeline-yr span {
   color: #ffffff;
